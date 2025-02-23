@@ -5,7 +5,7 @@
 - web-сервис реализован с gradio
 
 Ссылка на модели: https://drive.google.com/drive/folders/1_RREG35e9KJzcL7RxqLkgzRK9zqvX6U2?usp=sharing 
-Ссылка на подготовленные данные: https://drive.google.com/drive/folders/1s3nZC_HuUI6sSOHGmkAdtdxKP6Cdw2ZP?usp=sharing
+Ссылка на подготовленные данные с репликами доктора Хауса: https://drive.google.com/drive/folders/1s3nZC_HuUI6sSOHGmkAdtdxKP6Cdw2ZP?usp=sharing
 
 ## Запуск
 - Установить зависимости `pip install -r requrements.txt`
