@@ -8,8 +8,8 @@
 Ссылка на подготовленные данные: https://drive.google.com/drive/folders/1s3nZC_HuUI6sSOHGmkAdtdxKP6Cdw2ZP?usp=sharing
 
 ## Запуск
-Зависимости `pip install -r requrements.txt`
-В командной строке ввести `python3.11 gradio_interface.py`
+- Установить зависимости `pip install -r requrements.txt`
+- В командной строке ввести `python3.11 gradio_interface.py`
 
 ## Графики обучения
 ### BI Encoder - последняя версия
