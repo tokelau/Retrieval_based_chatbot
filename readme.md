@@ -36,3 +36,6 @@
 ![alt text](imgs/d1.png)
 ![alt text](imgs/d2.png)
 ![alt text](imgs/d3.png)
+
+--------
+Контакты: @tokelau
