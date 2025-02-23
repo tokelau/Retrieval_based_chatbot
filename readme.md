@@ -1,13 +1,14 @@
 # Отчет по Разработке Retrieval-Based чат-бота
 Чат бот выбирет подходящий подходящий ответ доктора Хауса на основе его реплик из сериала. Решение работает на связке BI-Enoder + Cross-Encoder. Первый извлекает k кандидатов, второй используется как reranker
 
-- Датасет (для BI - pair-class, для CE - pair-score): https://huggingface.co/datasets/sentence-transformers/all-nli 
+- [Обучающий датасет](https://huggingface.co/datasets/sentence-transformers/all-nli ) (для BI - pair-class, для CE - pair-score)
 - web-сервис реализован с gradio
 
 Ссылка на модели: https://drive.google.com/drive/folders/1_RREG35e9KJzcL7RxqLkgzRK9zqvX6U2?usp=sharing 
 Ссылка на подготовленные данные: https://drive.google.com/drive/folders/1s3nZC_HuUI6sSOHGmkAdtdxKP6Cdw2ZP?usp=sharing
 
 ## Запуск
+Зависимости `pip install -r requrements.txt`
 В командной строке ввести `python3.11 gradio_interface.py`
 
 ## Графики обучения
