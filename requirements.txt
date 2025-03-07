@@ -15,7 +15,6 @@ beautifulsoup4==4.11.2
 bleach==6.0.0
 certifi==2024.7.4
 cffi==1.15.1
-charset-normalizer @ file:///private/tmp/python-charset-normalizer-20231123-4937-xhhqqy/charset-normalizer-3.3.2
 click==8.1.8
 comm==0.1.2
 contourpy==1.3.1
@@ -101,7 +100,6 @@ pycparser==2.21
 pydantic==2.10.6
 pydantic_core==2.27.2
 pydub==0.25.1
-Pygments @ file:///private/tmp/pygments-20231121-5079-e7uuzt/pygments-2.17.2
 pyparsing==3.2.1
 pyrsistent==0.19.3
 python-dateutil==2.8.2
@@ -145,7 +143,6 @@ typer==0.15.1
 typing_extensions==4.12.2
 tzdata==2025.1
 uri-template==1.2.0
-urllib3 @ file:///private/tmp/python-urllib3-20231123-5269-2cyx6e/urllib3-2.1.0
 uvicorn==0.34.0
 wcwidth==0.2.6
 webcolors==1.12

@@ -7,7 +7,9 @@
 - web-сервис реализован с gradio
 
 ## Запуск
-- Установить зависимости `pip install -r requrements.txt`
+- Создать окружение `python3.11 -m venv myenv`
+- Активировать окружение (mac) `source myenv/bin/activate`
+- Установить зависимости `pip3.11 install -r requirements.txt`
 - В командной строке ввести `python3.11 gradio_interface.py`
 
 ## Графики обучения
